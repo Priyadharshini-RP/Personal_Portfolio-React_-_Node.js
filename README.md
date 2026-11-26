@@ -28,12 +28,12 @@ This is my personal portfolio website developed to showcase my profile, skills, 
 
 1. Clone the repository:
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Priyadharshini-RP/Personal_Portfolio-React_-_Node.js
 ```
 
 2. Navigate to the project folder:
 ```bash
-cd Personal_Portfolio-React-_-Node.js
+cd Personal_Portfolio-React_-_Node.js
 ```
 
 3. Install dependencies:
